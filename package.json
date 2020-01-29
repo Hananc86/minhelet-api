@@ -10,7 +10,7 @@
     "nodemon": "nodemon --inspect=9876 dist/index.js",
     "node": "node dist/index.js",
     "dev": "run-p compile:watch nodemon",
-    "start": "run-s compile node"
+    "start": "node dist/index.js"
   },
   "keywords": [],
   "author": "",
