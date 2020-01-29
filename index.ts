@@ -7,7 +7,7 @@ import GQLContext from "./shared/GQLContext";
 const express = require('express');
 const cors = require('cors');
 const url = require('url');
-const PORT = process.env.PORT || 5200;
+const PORT = process.env.PORT || 3001;
 
 var app = express();
 app.use(cors());

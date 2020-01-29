@@ -42,7 +42,7 @@ var index_1 = require("./schema/index");
 var express = require('express');
 var cors = require('cors');
 var url = require('url');
-var PORT = process.env.PORT || 5200;
+var PORT = process.env.PORT || 3001;
 var app = express();
 app.use(cors());
 var extractToken = function (ctx) {
