@@ -37,7 +37,7 @@ exports.User = sequelize_2["default"].define("User", {
     }
 }, {
     tableName: "wp_users",
-    timestamps: false,
+    timestamps: true,
     underscored: true
 });
-//# sourceMappingURL=User.js.map
+//# sourceMappingURL=User copy.js.map
