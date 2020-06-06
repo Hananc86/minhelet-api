@@ -16,7 +16,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^2.0.0-rc.6",
+    "apollo-server-express": "^2.14.2",
     "aws-sdk": "^2.335.0",
     "axios": "^0.18.0",
     "cors": "^2.8.4",
