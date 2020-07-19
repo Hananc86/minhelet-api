@@ -30,7 +30,7 @@
     "graphql-type-json": "^0.2.1",
     "jszip": "^3.2.2",
     "keycloak-connect": "^6.0.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "lodash.mapvalues": "^4.6.0",
     "mysql": "^2.18.1",
     "nodemon": "^1.18.4",
