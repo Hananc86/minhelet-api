@@ -36,7 +36,7 @@
     "nodemon": "^1.18.4",
     "request": "^2.88.0",
     "save": "^2.4.0",
-    "sequelize": "^3.30.4",
+    "sequelize": "^5.15.1",
     "typescript": "^3.7.5"
   },
   "devDependencies": {
