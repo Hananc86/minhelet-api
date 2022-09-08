@@ -28,7 +28,7 @@
     "graphql-relay": "^0.5.5",
     "graphql-sequelize": "^5.3.1",
     "graphql-type-json": "^0.2.1",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "keycloak-connect": "^6.0.1",
     "lodash": "^4.17.10",
     "lodash.mapvalues": "^4.6.0",
